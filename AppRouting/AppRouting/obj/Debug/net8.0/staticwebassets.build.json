@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "0Ikc+3gIs3KjdK3RC+ylqevOhqdy5XKHO3POJDNQqNg=",
+  "Source": "AppRouting",
+  "BasePath": "_content/AppRouting",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
