@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AppRouting")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a72d86dfa1b7c52e3bf6041264bc63b45a324255")]
 [assembly: System.Reflection.AssemblyProductAttribute("AppRouting")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AppRouting")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

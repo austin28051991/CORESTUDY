@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "sRQcoO50OMU=",
+  "dgSpecHash": "3q9BvyYJTvk=",
   "success": true,
-  "projectFilePath": "C:\\Users\\coolv\\source\\repos\\AppRouting\\AppRouting\\AppRouting.csproj",
+  "projectFilePath": "D:\\CORE\\CORESTUDY\\AppRouting\\AppRouting\\AppRouting.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\coolv\\.nuget\\packages\\humanizer\\2.14.1\\humanizer.2.14.1.nupkg.sha512",
     "C:\\Users\\coolv\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",

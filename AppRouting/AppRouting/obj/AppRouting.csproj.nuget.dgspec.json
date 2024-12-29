@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\coolv\\source\\repos\\AppRouting\\AppRouting\\AppRouting.csproj": {}
+    "D:\\CORE\\CORESTUDY\\AppRouting\\AppRouting\\AppRouting.csproj": {}
   },
   "projects": {
-    "C:\\Users\\coolv\\source\\repos\\AppRouting\\AppRouting\\AppRouting.csproj": {
+    "D:\\CORE\\CORESTUDY\\AppRouting\\AppRouting\\AppRouting.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\coolv\\source\\repos\\AppRouting\\AppRouting\\AppRouting.csproj",
+        "projectUniqueName": "D:\\CORE\\CORESTUDY\\AppRouting\\AppRouting\\AppRouting.csproj",
         "projectName": "AppRouting",
-        "projectPath": "C:\\Users\\coolv\\source\\repos\\AppRouting\\AppRouting\\AppRouting.csproj",
+        "projectPath": "D:\\CORE\\CORESTUDY\\AppRouting\\AppRouting\\AppRouting.csproj",
         "packagesPath": "C:\\Users\\coolv\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\coolv\\source\\repos\\AppRouting\\AppRouting\\obj\\",
+        "outputPath": "D:\\CORE\\CORESTUDY\\AppRouting\\AppRouting\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
